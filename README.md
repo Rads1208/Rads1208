@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **DSA and Web Development**
 
+- 👯 I’m looking to collaborate on **Hackathons and coding competitions (Feel free to reach out😄)**
+
 - 😄 Pronouns: **She/Her**
 
 - ⚡ Fun fact: **I listen to music while coding and I'm a Potterhead :D**
