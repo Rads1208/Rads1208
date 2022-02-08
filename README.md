@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Hackathons and coding competitions (Feel free to reach out😄)**
 
+- 🌱 My interest lies in **Competitive Programming and Web Development**
+
 - 😄 Pronouns: **She/Her**
 
 - ⚡ Fun fact: **I listen to music while coding and I'm a Potterhead :D**
