@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Radhika</h1>
-<h3 align="center">I am a second-year undergraduate student</h3>
+<h3 align="center">I am a third-year undergraduate student</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
